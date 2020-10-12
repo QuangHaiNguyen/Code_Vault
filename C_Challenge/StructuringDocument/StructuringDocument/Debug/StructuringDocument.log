@@ -1,6 +1,6 @@
 ﻿  main.c
-F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(49,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char **'
-F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(27,22): warning C4101: 'my_sentences': unreferenced local variable
-F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(29,22): warning C4101: 'my_docu': unreferenced local variable
-F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(28,23): warning C4101: 'my_paragraphs': unreferenced local variable
+F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(75,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'word'
+F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(76,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'word'
+F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(77,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'word'
+F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\StructuringDocument\main.c(78,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'word'
   StructuringDocument.vcxproj -> F:\Nextcloud\My Work\Code_Vault\C_Challenge\StructuringDocument\Debug\StructuringDocument.exe
